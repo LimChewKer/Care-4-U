@@ -1,0 +1,11 @@
+Editor Link
+Allows users to access the editor
+https://www.appsheet.com/Template/AppDef?appName=NewApp-30400739&utm_source=share_app_link
+
+Browser Link
+Run the app directly in your browser
+https://www.appsheet.com/start/995902d7-b247-40e7-bc11-41c139316b31
+
+Install Link
+Allows mobile users to install the app on their device
+https://www.appsheet.com/newshortcut/995902d7-b247-40e7-bc11-41c139316b31
